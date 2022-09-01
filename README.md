@@ -2,4 +2,4 @@
 
 
 ## download dataset
-kaggle kernels output gatorpyton/emotion-detection-using-alexnet -p /path/to/dest
+https://www.kaggle.com/datasets/ananthu017/emotion-detection-fer
